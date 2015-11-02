@@ -1,10 +1,3 @@
-/*
- * Copyright 2015, HM Revenue & Customs. All rights reserved.
- * This file and its contents are the property of HM Revenue & Customs.
- */
-/**
- * 
- */
 package io.acuity.web.config;
 
 import java.util.Properties;
@@ -30,7 +23,7 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
 import org.springframework.transaction.annotation.TransactionManagementConfigurer;
 
 /**
- * @author 7827660
+ * @author Amit Verma
  *
  */
 @Configuration
